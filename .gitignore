@@ -1,0 +1,15 @@
+# Bytecode
+__pycache__/
+
+# Model weights and data zips
+*.pt
+*.zip
+
+# Video/images/demos
+*.avi
+*.png
+*.jpg
+*.jpeg
+
+# System files
+.DS_Store
