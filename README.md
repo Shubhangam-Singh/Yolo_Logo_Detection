@@ -28,7 +28,9 @@ python my_model/yolo_detect.py \
   --record
 
 🛠 Requirements
+```bash
 pip install ultralytics opencv-python
+```
 
 👤 Author
 Shubhangam Singh
