@@ -26,6 +26,7 @@ python my_model/yolo_detect.py \
   --source 0 \
   --resolution 640x480 \
   --record
+```
 
 🛠 Requirements
 ```bash
