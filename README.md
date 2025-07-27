@@ -11,7 +11,7 @@ Yolo_Final/
 │   └── train/            ← (optional) your training data
 ├── Comp_Name/            ← (optional) extra configs
 ├── .gitignore            ← ignore rules
-└── README.md             ← this file.
+└── README.md             ← this file
 
 ## 🚀 How to Run
 
