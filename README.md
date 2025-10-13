@@ -3,7 +3,7 @@
 This repository contains a custom YOLOv5 detection script using Ultralytics.
 
 ## 📂 Folder Structure
-
+```
 Yolo_Final/
 ├── my_model/
 │   ├── yolo_detect.py    ← main detection script
@@ -12,7 +12,7 @@ Yolo_Final/
 ├── Comp_Name/            ← (optional) extra configs
 ├── .gitignore            ← ignore rules
 └── README.md             ← this file
-
+```
 ## 🚀 How to Run
 
 ```bash
